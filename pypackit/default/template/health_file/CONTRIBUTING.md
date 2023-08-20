@@ -21,5 +21,5 @@
 
 <p align="justify">
     To keep all documentation on our project organized and easy to find, the complete
-    <a href="{url[contributing]}">contribution guide</a> is hosted on our website.
+    <a href="{url[website][contributing]}">contribution guide</a> is hosted on our website.
 </p>
