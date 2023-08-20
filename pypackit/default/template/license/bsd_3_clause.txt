@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) {copyright[year_range]} {user[owner].name}
+Copyright (c) {copyright[year_range]} {owner.name}
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
