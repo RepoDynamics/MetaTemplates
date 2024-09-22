@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We, the members, contributors, maintainers, and creators of ***{name}***,
+We, the members, contributors, maintainers, and creators of ***${{name}}***,
 pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, healthy, and harassment-free community for every person involved in this project.
 
@@ -54,7 +54,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement,
-at [{email[code_of_conduct]}](mailto:{email[code_of_conduct]}).
+at [${{email.code_of_conduct}}](mailto:${{email.code_of_conduct}}).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
